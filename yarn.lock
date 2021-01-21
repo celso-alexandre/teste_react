@@ -8947,6 +8947,11 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
   integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==
 
+react-native-remote-svg@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/react-native-remote-svg/-/react-native-remote-svg-2.0.6.tgz#5f8bc7cefc18f4d37cf02f8158d6b2a9f534891d"
+  integrity sha512-tQbDL+gtfGgG9Evz5TOn5Odmrn/EYsmsLqVZ0Do0VMJevfLBuQRioLiwRsI/BCgOHu1oQLZIIE5p7V/lN9jLrw==
+
 react-refresh@^0.8.3:
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.8.3.tgz#721d4657672d400c5e3c75d063c4a85fb2d5d68f"
